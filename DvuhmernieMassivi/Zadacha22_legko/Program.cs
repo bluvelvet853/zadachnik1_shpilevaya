@@ -27,7 +27,7 @@ namespace Zadacha22_legko
                 for (int j = 0; j < 10; j++)
                 {
                     summa += massiv[i, j];
-                    if (i == 1)
+                    if (i == 0)
                     {
                         summa1 = summa;
                     }
