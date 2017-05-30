@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha9_legko", "Zadacha9_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha19_legko", "Zadacha19_legko\Zadacha19_legko.csproj", "{06498C6F-4623-4F2B-9708-1887088927F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha22_legko", "Zadacha22_legko\Zadacha22_legko.csproj", "{CBB1A3B2-4FAA-4C69-8C4E-EDB5312C8521}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{06498C6F-4623-4F2B-9708-1887088927F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06498C6F-4623-4F2B-9708-1887088927F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06498C6F-4623-4F2B-9708-1887088927F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB1A3B2-4FAA-4C69-8C4E-EDB5312C8521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB1A3B2-4FAA-4C69-8C4E-EDB5312C8521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB1A3B2-4FAA-4C69-8C4E-EDB5312C8521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB1A3B2-4FAA-4C69-8C4E-EDB5312C8521}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
